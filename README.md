@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlejandroFISC97&label=Profile%20views&color=0e75b6&style=flat" alt="AlejandroFISC97" /> </p>
 
-![Banner](https://user-images.githubusercontent.com/29686102/122269982-7af63100-cefb-11eb-8ea0-b7a53bdf1cb9.png)
-
 <p align="left"> <a href="https://twitter.com/afinfantesc" target="blank"><img src="https://img.shields.io/twitter/follow/afinfantesc?logo=twitter&style=for-the-badge" alt="afinfantesc" /></a> </p>
 
 - 🌱 I’m currently learning about **Embedded Linux Stack**
