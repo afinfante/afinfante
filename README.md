@@ -3,11 +3,11 @@
 <h1 align="center">I'm Alejandro Fernández-Infante Sánchez-Camacho</h1>
 <h3 align="center">git commit -m "Embedded Software Engineer at TECNOBIT S.L.U."</h3>
 
-### My website:question::point_right: [click here](https://alejandrofisc97.github.io/)
+### Feel free to visit my [website](https://alejandrofisc97.github.io/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlejandroFISC97&label=Profile%20views&color=0e75b6&style=flat" alt="AlejandroFISC97" /> </p>
 
-<p align="left"> <a href="https://twitter.com/afinfantesc" target="blank"><img src="https://img.shields.io/twitter/follow/afinfantesc?logo=twitter&style=for-the-badge" alt="afinfantesc" /></a> </p>
+<p align="left"> <a href="https://twitter.com/afinfante_" target="blank"><img src="https://img.shields.io/twitter/follow/afinfante_?logo=twitter&style=for-the-badge" alt="afinfante_" /></a> </p>
 
 - 🌱 I’m currently learning about **Embedded Linux Stack & Bare-metal programming**
 
@@ -19,9 +19,6 @@
 
 ### What are my featured projects:question::rocket:
 <code>[ECVFS](https://github.com/AlejandroFISC97/ECVFS)</code>:hourglass:
-
-### What can I help with:question::cyclone:
-<code>git commit -m "Pretty much embedded stuffs!"</code> :grin:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
