@@ -1,4 +1,4 @@
-## Welcome to my github profile :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Welcome to my github profile <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <h1 align="center">I'm Alejandro Fernández-Infante Sánchez-Camacho</h1>
 <h3 align="center">git commit -m "Embedded Software Engineer at TECNOBIT S.L.U."</h3>
