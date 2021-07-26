@@ -3,9 +3,9 @@
 <h1 align="center">I'm Alejandro Fernández-Infante Sánchez-Camacho</h1>
 <h3 align="center">git commit -m "Embedded Software Engineer at TECNOBIT S.L.U."</h3>
 
-### Feel free to visit my [website](https://alejandrofisc97.github.io/)
+### Feel free to visit my [website](https://afinfante.github.io/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlejandroFISC97&label=Profile%20views&color=0e75b6&style=flat" alt="AlejandroFISC97" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afinfante&label=Profile%20views&color=0e75b6&style=flat" alt="afinfante" /> </p>
 
 <p align="left"> <a href="https://twitter.com/afinfante_" target="blank"><img src="https://img.shields.io/twitter/follow/afinfante_?logo=twitter&style=for-the-badge" alt="afinfante_" /></a> </p>
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alejandrofisc97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alejandrofisc97" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/afinfante" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="afinfante" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
