@@ -11,14 +11,14 @@
 
 - 🌱 I’m currently learning about **Embedded Linux Stack & Bare-metal programming**
 
-- 👨‍💻Know about my work & experiences visiting [my website](https://alejandrofisc97.github.io/)
+- 👨‍💻Know about my work & experiences visiting [my website](https://afinfante.github.io/)
 
 - 💬 Ask me about **C/C++, Python, Bash, Yocto/Petalinux or Jenkins**
 
 - 📫 Reach me at **afinfante@protonmail.ch**
 
 ### What are my featured projects:question::rocket:
-<code>[ECVFS](https://github.com/AlejandroFISC97/ECVFS)</code>:hourglass:
+<code>[ECVFS](https://github.com/afinfante/ECVFS)</code>:hourglass:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
