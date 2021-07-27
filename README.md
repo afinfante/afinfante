@@ -3,7 +3,7 @@
 <h1 align="center">I'm Alejandro Fernández-Infante Sánchez-Camacho</h1>
 <h3 align="center">git commit -m "Embedded Software Engineer at TECNOBIT S.L.U."</h3>
 
-### Feel free to visit my [website](https://afinfante.github.io/)
+### Feel free to visit my [website](https://afinfante.github.io/website)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afinfante&label=Profile%20views&color=0e75b6&style=flat" alt="afinfante" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning about **Embedded Linux Stack & Bare-metal programming**
 
-- 👨‍💻Know about my work & experiences visiting [my website](https://afinfante.github.io/)
+- 👨‍💻Know about my work & experiences visiting [my website](https://afinfante.github.io/website)
 
 - 💬 Ask me about **C/C++, Python, Bash, Yocto/Petalinux or Jenkins**
 
