@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning about **Embedded Linux Stack & Bare-metal programming**
 
-- 👨‍💻Know about my work & experiences visiting [my website](https://afinfante.github.io/website)
+- 👨‍💻Know about my skills visiting [my website](https://afinfante.github.io/website)
 
-- 💬 Ask me about **C/C++, Python, Bash, Yocto/Petalinux or Jenkins**
+- 💬 Ask me about **C/C++, Python, Bash or Yocto/Petalinux**
 
 - 📫 Reach me at **afinfante@protonmail.ch**
 
