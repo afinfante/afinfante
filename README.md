@@ -18,12 +18,6 @@
 - 💬 Ask me about ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c), ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python), ![Bash](https://img.shields.io/badge/-Bash-blasck?style=plastic&logo=Shell) or ![Yocto](https://img.shields.io/badge/-Yocto-blasck?style=plastic&logo=Linux)
 - 📫 Reach me at **afinfante [at] protonmail [dot] ch**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afinfante&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=afinfante&label=Profile%20views&color=0e75b6&style=flat" alt="afinfante" />
-</p>
-
 ## 🛠 Technologies & tools
 <p align="center">
    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -38,3 +32,18 @@
    <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 </p>
 
+<p align="center">
+    <a href="https://github.com/afinfante?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+    <a href="https://github.com/afinfante" target="_blank"><img alt="afinfante" src="https://badges.pufler.dev/visits/afinfante/afinfante?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <!--<a href="https://github.com/alwinw" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
+    <a href="https://github.com/afinfante/afinfante" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/afinfante/afinfante?label=profile%20updated&style=flat-square"></a>
+</p>
+
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=afinfante&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afinfante&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+</details>
