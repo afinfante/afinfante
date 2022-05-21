@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning about **embedded Linux stack & baremetal programming over Xilinx & Atmel SoCs**
 - 👨‍💻Know about my skills visiting [my website](https://afinfante.github.io/website)
-- 💬 Ask me about ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c), ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python), ![Bash](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell) or [Yocto](https://img.shields.io/badge/-Yocto-blasck?style=plastic&logo=Linux)**
+- 💬 Ask me about ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c), ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python), ![Bash](https://img.shields.io/badge/-Bash-blasck?style=plastic&logo=Shell) or ![Yocto](https://img.shields.io/badge/-Yocto-blasck?style=plastic&logo=Linux)
 - 📫 Reach me at **afinfante [at] protonmail [dot] ch**
 
 <p align="center">
