@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/afinfante/afinfante/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/afinfante/afinfante/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
 </div>
@@ -21,6 +21,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=afinfante&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />
+  <br />
   <img src="https://komarev.com/ghpvc/?username=afinfante&label=Profile%20views&color=0e75b6&style=flat" alt="afinfante" />
 </p>
 
