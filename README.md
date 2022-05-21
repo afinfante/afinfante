@@ -5,7 +5,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/afinfante/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Alejandro-blue?logo=linkedin" /></a>
-  <a href="https://twitter.com/afinfante_" target="_blank"><img src="https://img.shields.io/twitter/follow/afinfante_?logo=twitter&style=for-the-badge" alt="afinfante_" /></a>
 </p>
 
 - 🌱 I’m currently learning about **embedded Linux stack & baremetal programming**
@@ -25,11 +24,7 @@
 </p>
 
 <p align="center">
-
 [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=afinfante&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/afinfante)
-
-  [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=afinfante&theme=react-dark)](https://github.com/afinfante)
-
 </p>
 
 ### What are my featured projects? :rocket:
