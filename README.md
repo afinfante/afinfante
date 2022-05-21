@@ -24,7 +24,9 @@
 </p>
 
 <p align="center">
+
 [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=afinfante&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/afinfante)
+
 </p>
 
 ### What are my featured projects? :rocket:
