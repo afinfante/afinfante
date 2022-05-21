@@ -40,6 +40,7 @@
 </p>
 
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afinfante&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afinfante&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
