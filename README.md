@@ -13,10 +13,10 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 
-- 🌱 I’m currently learning about **embedded Linux stack & baremetal programming**
+- 🌱 I’m currently learning about **embedded Linux stack & baremetal programming over Xilinx & Atmel SoCs**
 - 👨‍💻Know about my skills visiting [my website](https://afinfante.github.io/website)
-- 💬 Ask me about **C/C++, Python, Bash or Yocto**
-- 📫 Reach me at **afinfante@protonmail[dot]ch**
+- 💬 Ask me about ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c), ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python), ![Bash](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell) or [Yocto](https://img.shields.io/badge/-Yocto-blasck?style=plastic&logo=Linux)**
+- 📫 Reach me at **afinfante [at] protonmail [dot] ch**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=afinfante&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />
