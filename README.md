@@ -1,4 +1,8 @@
-## Hi, welcome to my profile <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<div align="center">
+  <img src="https://github.com/afinfante/afinfante/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+</div>
 
 <h1 align="center">I'm Alejandro Fernández-Infante Sánchez-Camacho</h1>
 <h3 align="center">git commit -m "Embedded Software Engineer at TECNOBIT S.L.U."</h3>
@@ -17,16 +21,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=afinfante&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=afinfante&label=Profile%20views&color=0e75b6&style=flat" alt="afinfante" />
-</p>
-
-<p align="center">
-
-[![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=afinfante&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/afinfante)
-
 </p>
 
 ### What are my featured projects? :rocket:
