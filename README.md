@@ -25,11 +25,8 @@
   <img src="https://komarev.com/ghpvc/?username=afinfante&label=Profile%20views&color=0e75b6&style=flat" alt="afinfante" />
 </p>
 
-### What are my featured projects? :rocket:
-<code>[ECVFS](https://github.com/afinfante/ECVFS)</code>:hourglass:
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
    <a href="https://en.cppreference.com/w/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
@@ -39,5 +36,10 @@
    <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
    <a href="https://www.arduino.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
-   <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> </p>
+   <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+</p>
+
+<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afinfante&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
