@@ -12,6 +12,7 @@
 </p>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
+
 - 🌱 I’m currently learning about **embedded Linux stack & baremetal programming**
 - 👨‍💻Know about my skills visiting [my website](https://afinfante.github.io/website)
 - 💬 Ask me about **C/C++, Python, Bash or Yocto**
