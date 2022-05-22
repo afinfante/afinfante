@@ -13,10 +13,10 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 
-- 🌱I'm specialised in embedded Linux stack & baremetal programming over Xilinx/Atmel SoCs
-- 👨‍💻Know about my skills visiting [my website](https://afinfante.github.io/website)
-- 💬 Ask me about ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c), ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python), ![Bash](https://img.shields.io/badge/-Bash-blasck?style=plastic&logo=Shell) or ![Yocto](https://img.shields.io/badge/-Yocto-blasck?style=plastic&logo=Linux)
-- 📫 Reach me at **afinfante [at] protonmail [dot] ch**
+- 🌱I'm specialised in embedded ![Linux](https://img.shields.io/badge/-Linux-552f9c?style=plastic&logo=Linux) stack & baremetal programming over ![Xilinx](https://img.shields.io/badge/-Xilinx-9c352f?style=plastic&logo=Xilinx)/Atmel SoCs
+- 👨‍💻To know more about my skills, feel free to visit [my website](https://afinfante.github.io/website)
+- 💬 Ask me about ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c), ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python), ![Bash](https://img.shields.io/badge/-Bash-blasck?style=plastic&logo=Shell) or ![Yocto](https://img.shields.io/badge/-Yocto-28a9a1?style=plastic&logo=arm)
+- 📫 Reach me at **afinfante [at] ![protonmail](https://img.shields.io/badge/-protonmail-552f9c?style=plastic&logo=protonmail) [dot] ch**
 
 ## 🛠 Technologies & tools
 <p align="center">
@@ -35,7 +35,6 @@
 <p align="center">
     <a href="https://github.com/afinfante?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
     <a href="https://github.com/afinfante" target="_blank"><img alt="afinfante" src="https://badges.pufler.dev/visits/afinfante/afinfante?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <!--<a href="https://github.com/alwinw" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
     <a href="https://github.com/afinfante/afinfante" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/afinfante/afinfante?label=profile%20updated&style=flat-square"></a>
 </p>
 
