@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">I'm Alejandro Fernández-Infante Sánchez-Camacho</h1>
-<h3 align="center">git commit -m "Embedded Software Engineer at TECNOBIT S.L.U."</h3>
+<h3 align="center">git commit -m "Firmware engineer at TECNOBIT S.L.U."</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/afinfante/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Alejandro-blue?logo=linkedin" /></a>
@@ -13,7 +13,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 
-- 🌱I'm specialised in embedded ![Linux](https://img.shields.io/badge/-Linux-552f9c?style=plastic&logo=Linux) stack & baremetal programming over ![Xilinx](https://img.shields.io/badge/-Xilinx-9c352f?style=plastic&logo=Xilinx)/Atmel SoCs
+- 🌱I'm specialised in embedded ![Linux](https://img.shields.io/badge/-Linux-552f9c?style=plastic&logo=Linux) stack & baremetal programming over ![Xilinx](https://img.shields.io/badge/-Xilinx-9c352f?style=plastic&logo=Xilinx) SoCs & Atmel/Microchip MPUs
 - 👨‍💻To know more about my skills, feel free to visit [my website](https://afinfante.github.io/website)
 - 💬 Ask me about ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c), ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python), ![Bash](https://img.shields.io/badge/-Bash-blasck?style=plastic&logo=Shell) or ![Yocto](https://img.shields.io/badge/-Yocto-2f3c9c?style=plastic&logo=arm)
 - 📫 Reach me at **afinfante [at] protonmail [dot] ch**
@@ -45,12 +45,3 @@
     <a href="https://github.com/afinfante" target="_blank"><img alt="afinfante" src="https://badges.pufler.dev/visits/afinfante/afinfante?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
     <a href="https://github.com/afinfante/afinfante" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/afinfante/afinfante?label=profile%20updated&style=flat-square"></a>
 </p>
-
-<details>
-<summary>Click to know my stats</summary>
-<p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=afinfante&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afinfante&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-</p>
-</details>
