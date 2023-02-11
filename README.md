@@ -42,6 +42,6 @@
 
 <p align="center">
     <a href="https://github.com/afinfante?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/afinfante" target="_blank"><img alt="afinfante" src="https://badges.pufler.dev/visits/afinfante/afinfante?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <a href="https://github.com/afinfante" target="_blank"><img alt="afinfante" src="https://komarev.com/ghpvc/?username=afinfante&color=blueviolet"/></a>
     <a href="https://github.com/afinfante/afinfante" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/afinfante/afinfante?label=profile%20updated&style=flat-square"></a>
 </p>
