@@ -13,12 +13,12 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 
-- 🌱I'm specialised in embedded ![Linux](https://img.shields.io/badge/-Linux-552f9c?style=plastic&logo=Linux) stack and baremetal programming over ![AMD](https://img.shields.io/badge/-AMD-9c352f?style=plastic&logo=AMD) SoCs, enjoying being close to the hardware and learning RTL
-- 👨‍💻To know more about my skills, feel free to visit [my website](https://afinfante.github.io/website)
-- 🔍 Work with ![C](https://img.shields.io/badge/-C-09396a?style=plastic&logo=C) and ![C++](https://img.shields.io/badge/-C++-4076ac?style=plastic&logo=Cplusplus) for avionics, crypto and electro-optical systems, bridging low-level systems with high-level intelligence
+- 🌱 Specialised in the embedded ![Linux](https://img.shields.io/badge/-Linux-552f9c?style=plastic&logo=Linux) stack and baremetal programming on ![AMD](https://img.shields.io/badge/-AMD-9c352f?style=plastic&logo=AMD) SoCs, enjoying working close to the hardware and diving into RTL
+- 👨‍💻 For more about my skills, feel free to visit my [my website](https://afinfante.github.io/website)
+- 🔍 Experienced in ![C](https://img.shields.io/badge/-C-09396a?style=plastic&logo=C) and ![C++](https://img.shields.io/badge/-C++-4076ac?style=plastic&logo=Cplusplus) development for avionics, crypto and electro-optical systems, bridging low-level firmware with high-level intelligence
 - 📫 Reach me at **afinfante [at] protonmail [dot] ch**
 
-## 🛠 Technologies & tools
+## 🛠 Technologies & Tools
 <p align="center">
    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
    <a href="https://en.cppreference.com/w/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
