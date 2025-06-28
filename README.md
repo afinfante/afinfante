@@ -40,7 +40,7 @@
    <a href="https://en.wikipedia.org/wiki/Embedded_C" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="bash" width="40" height="40"/> </a>   
 </p>
 
-## :octocat: My Github stats
+## :octocat: Github stats
 
 <!-- ************* light ************* -->
 [![afinfante's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=afinfante&count_private=true&include_all_commits=true&hide_rank=true&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&hide=prs&theme=transparent#gh-light-mode-only)](https://github.com/afinfante/afinfante#gh-light-mode-only)
