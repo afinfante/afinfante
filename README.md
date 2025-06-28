@@ -13,9 +13,9 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 
-- 🌱I'm specialised in embedded ![Linux](https://img.shields.io/badge/-Linux-552f9c?style=plastic&logo=Linux) stack & baremetal programming over ![Xilinx](https://img.shields.io/badge/-Xilinx-9c352f?style=plastic&logo=Xilinx) SoCs & Atmel/Microchip MPUs
+- 🌱I'm specialised in embedded ![Linux](https://img.shields.io/badge/-Linux-552f9c?style=plastic&logo=Linux) stack & baremetal programming over ![AMD](https://img.shields.io/badge/-AMD-9c352f?style=plastic&logo=AMD) SoCs
 - 👨‍💻To know more about my skills, feel free to visit [my website](https://afinfante.github.io/website)
-- 💬 Ask me about ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c), ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python), ![Bash](https://img.shields.io/badge/-Bash-blasck?style=plastic&logo=Shell) or ![Yocto](https://img.shields.io/badge/-Yocto-2f3c9c?style=plastic&logo=arm)
+- 🔍 Work with **C/C++**, bridging low-level systems with high-level intelligence
 - 📫 Reach me at **afinfante [at] protonmail [dot] ch**
 
 ## 🛠 Technologies & tools
