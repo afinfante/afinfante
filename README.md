@@ -33,10 +33,6 @@
    <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
    <a href="https://bitbucket.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bash" width="40" height="40"/> </a>
    <a href="https://slack.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="bash" width="40" height="40"/> </a>
-   <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="bash" width="40" height="40"/> </a>
-   <a href="https://trello.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="bash" width="40" height="40"/> </a>
-   <a href="https://www.vim.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="bash" width="40" height="40"/> </a>
-   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="bash" width="40" height="40"/> </a>
    <a href="https://cmake.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="bash" width="40" height="40"/> </a>
    <a href="https://en.wikipedia.org/wiki/Embedded_C" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="bash" width="40" height="40"/> </a>   
 </p>
