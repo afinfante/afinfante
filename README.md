@@ -15,7 +15,7 @@
 
 - 🌱I'm specialised in embedded ![Linux](https://img.shields.io/badge/-Linux-552f9c?style=plastic&logo=Linux) stack & baremetal programming over ![AMD](https://img.shields.io/badge/-AMD-9c352f?style=plastic&logo=AMD) SoCs
 - 👨‍💻To know more about my skills, feel free to visit [my website](https://afinfante.github.io/website)
-- 🔍 Work with **C/C++**, bridging low-level systems with high-level intelligence
+- 🔍 Work with ![C](https://img.shields.io/badge/-C-09396a?style=plastic&logo=C)/![C++](https://img.shields.io/badge/-C++-4076ac?style=plastic&logo=Cplusplus), bridging low-level systems with high-level intelligence
 - 📫 Reach me at **afinfante [at] protonmail [dot] ch**
 
 ## 🛠 Technologies & tools
