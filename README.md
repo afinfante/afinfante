@@ -16,7 +16,7 @@
 - 🌱 Specialised in the embedded ![Linux](https://img.shields.io/badge/--552f9c?style=plastic&logo=Linux) stack and bare-metal programming on ![AMD](https://img.shields.io/badge/--9c352f?style=plastic&logo=AMD) SoCs and exploring RTL
 - 🧠 Comfortable working with ![ARM](https://img.shields.io/badge/--0bc8fb?style=plastic&logo=ARM) architectures, and highly interested in the rise of ![RISC-V](https://img.shields.io/badge/--ffa500?style=plastic&logo=RISC-V)
 - 👨‍💻 For more about my skills, feel free to visit my [website](https://afinfante.github.io/website)
-- 🔍 Experienced in ![C](https://img.shields.io/badge/--09396a?style=plastic&logo=C) and ![C++](https://img.shields.io/badge/--4076ac?style=plastic&logo=Cplusplus) development for avionics, crypto, and electro-optical systems, focused on hardware bring-up tasks.
+- 🔍 Experienced in ![C](https://img.shields.io/badge/--09396a?style=plastic&logo=C) and ![C++](https://img.shields.io/badge/--4076ac?style=plastic&logo=Cplusplus) development for avionics, crypto, and electro-optical systems, focused on hardware bring-up tasks
 - 📫 Reach me at **afinfante [at] protonmail [dot] ch**
 
 ## 🛠 Technologies & Tools
