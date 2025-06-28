@@ -40,6 +40,18 @@
    <a href="https://en.wikipedia.org/wiki/Embedded_C" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="bash" width="40" height="40"/> </a>   
 </p>
 
+## :octocat: My Github stats
+
+<!-- ************* light ************* -->
+[![afinfante's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=afinfante&count_private=true&include_all_commits=true&hide_rank=true&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&hide=prs&theme=transparent#gh-light-mode-only)](https://github.com/afinfante/afinfante#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=afinfante&hide=jupyter%20notebook,php&exclude_repo=afinfante.github.io&langs_count=10&hide_title=true&layout=compact&hide_border=true&bg_color=00000000&theme=transparent#gh-light-mode-only)](https://github.com/afinfante#gh-light-mode-only)
+
+<!-- ************* dark ************* -->
+[![afinfante's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=afinfante&count_private=true&include_all_commits=true&hide_rank=true&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&hide=prs&theme=vue-dark#gh-dark-mode-only)](https://github.com/afinfante/afinfante#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=afinfante&hide=jupyter%20notebook,php&exclude_repo=afinfante.github.io&langs_count=10&hide_title=true&layout=compact&hide_border=true&bg_color=00000000&theme=vue-dark#gh-dark-mode-only)](https://github.com/afinfante#gh-dark-mode-only)
+
+---
+
 <p align="center">
     <a href="https://github.com/afinfante?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
     <a href="https://github.com/afinfante" target="_blank"><img alt="afinfante" src="https://komarev.com/ghpvc/?username=afinfante&color=blueviolet"/></a>
